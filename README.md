@@ -9,8 +9,8 @@ Opus
 <p align="center">This was officially my first project, my completion of the course. An application developed for freelancers, so they can advertise their services for free. I hope you enjoy it. </p>
 
 <div align="center">
-    <img src="./Opus/images/login.jpg" alt="Opus" height="425">
-    <img src="./Opus/images/cadastro.jpg" alt="Opus" height="425">
+    <img src="./Opus/images/login.JPG" alt="Opus" height="425">
+    <img src="./Opus/images/cadastro.JPG" alt="Opus" height="425">
 </div>
 
 <hr />
