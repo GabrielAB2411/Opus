@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "640826378835",
+    "firebase_url": "https://opus-ca539.firebaseio.com",
+    "project_id": "opus-ca539",
+    "storage_bucket": "opus-ca539.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640826378835:android:a977828189fc67dbe014a6",
+        "android_client_info": {
+          "package_name": "com.opus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640826378835-2k31u3pucps35gcjhr7teuuf402ui1ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMQVsXIn_QWoKyh-_-U4d6tF05B2G1sB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640826378835-2k31u3pucps35gcjhr7teuuf402ui1ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
