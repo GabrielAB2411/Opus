@@ -1,7 +1,6 @@
 <h1 align="center">
   <br>
   <img src="./Opus/images/logo.png" alt="Opus Logo" width="120">
-  <br><br>
   <br>
 </h1>
 
