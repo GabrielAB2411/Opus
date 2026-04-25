@@ -2,7 +2,6 @@
   <br>
   <img src="./Opus/images/logo.png" alt="Opus Logo" width="120">
   <br><br>
-  Opus
   <br>
 </h1>
 
@@ -48,7 +47,7 @@
 
 ## 🎯 About the Project
 
-Opus was built as my **course completion project** — the first full application I developed from scratch. The goal was to create a platform where freelancers could register and showcase their services without any cost, making it accessible to independent professionals at any stage of their careers.
+Opus was built as my **course completion project**, the first full application I developed from scratch. The goal was to create a platform where freelancers could register and showcase their services without any cost, making it accessible to independent professionals at any stage of their careers.
 
 ---
 
